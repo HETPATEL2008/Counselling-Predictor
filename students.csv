@@ -1,0 +1,17 @@
+ID,Name,Attendance,Marks,FeeStatus,FinancialDifficulty
+101,Amit Patel,92,78,Paid,None
+102,Riya Shah,68,35,Pending,Severe
+103,Neel Desai,74,42,Paid,Moderate
+104,Priya Mehta,88,81,Paid,None
+106,Kajal Verma,83,65,Paid,Moderate
+107,Rohan Joshi,71,38,Paid,Moderate
+108,Anjali Singh,95,90,Paid,None
+110,Pooja Patel,79,55,Paid,None
+111,Arjun Malhotra,85,72,Paid,None
+112,Nisha Gupta,67,33,Pending,Moderate
+113,Kunal Jain,91,88,Paid,None
+114,Mehul Bhatt,73,45,Paid,Moderate
+115,Sneha Iyer,58,30,Pending,Severe
+116,Darshil Patel,68,39,Paid,Moderate
+117,Meet Patel,68,39,Paid,None
+118,Tanish Shah,69,56,Paid,None
